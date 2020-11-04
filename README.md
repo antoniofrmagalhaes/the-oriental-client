@@ -11,6 +11,14 @@
 
 <p>Source code of "The Oriental" japanese food delivery web application. </p>
 
+## WEB
+<img src="https://user-images.githubusercontent.com/49319968/98058221-85efcb80-1e1a-11eb-94d0-4895b4b950f8.png" width="100%" />
+
+## MOBILE
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/49319968/98058157-63f64900-1e1a-11eb-81d2-0bf95f4f41bd.png" width="250" />
+  <img src="https://user-images.githubusercontent.com/49319968/98058199-7c666380-1e1a-11eb-9161-d70d1455c8a0.png" width="250" /> 
+</p>
 
 ## Installation
 
