@@ -1,46 +1,30 @@
-# Getting Started with Create React App
+<h3 align="center">
+  The Oriental Web Delivery
+</h3>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+    <img alt="reactjs" src="https://user-images.githubusercontent.com/49319968/98042610-3c8f8400-1dfa-11eb-8d83-a6f62ef7442c.png" width="75" />
+    <img alt="typescript" src="https://user-images.githubusercontent.com/49319968/98042676-56c96200-1dfa-11eb-9302-9c9f53df5610.png" width="75" />
+    <img alt="redux" src="https://user-images.githubusercontent.com/49319968/98042092-554b6a00-1df9-11eb-9a29-e2e44839bf6d.png" width="75" />
+    <img alt="styled-components" src="https://user-images.githubusercontent.com/49319968/98042558-27b2f080-1dfa-11eb-8754-60c04e11c61f.png" width="75" />
+</h1>
 
-## Available Scripts
+<p>Source code of "The Oriental" japanese food delivery web application. </p>
 
-In the project directory, you can run:
 
-### `yarn start`
+## Installation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. Clone this repository.
+```sh
+git clone git@github.com:antoniofrmagalhaes/the-oriental-client.git
+```
+2. Navigate to the created folder.
+```sh
+cd the-oriental-client
+```
+4. Run command `yarn` or `npm install` to install all dependencies.
+5. Then finally run the command `yarn start` or `npm run start` to start the project.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## License
 
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+This project is under MIT license. See the file [LICENSE](LICENSE.md) for more details.
